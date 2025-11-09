@@ -2,4 +2,6 @@
 itemGroup.tabCivilisedIllumination=Civilised Illumination
 
 #Blocks
-tile.block_firebox.name=Firebox
+#tile.block_firebox.name=Firebox
+civilisedillumination:block_firebox.name=Firebox
+civilisedillumination:block_firebox_liquid.name=Liquid Firebox

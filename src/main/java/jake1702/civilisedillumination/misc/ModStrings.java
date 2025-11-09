@@ -3,4 +3,5 @@ package jake1702.civilisedillumination.misc;
 public class ModStrings {
     //Block Names
     public static final String stringFirebox = "block_firebox";
+    public static final String stringFireboxLiquid = "block_firebox_liquid";
 }
